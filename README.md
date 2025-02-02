@@ -1,6 +1,6 @@
 # Privacy Policy for TradePath
 
-**Last Updated**: October 27, 2023  
+**Last Updated**: 02-02-2025  
 
 Welcome to **TradePath** , an AI-powered cryptocurrency analysis app. This Privacy Policy explains how we collect, use, and protect your information. By using TradePath, you agree to the terms outlined below.
 
